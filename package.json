@@ -1,0 +1,19 @@
+{
+  "name": "tcp-udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tcp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajcuddeback/tcp-udp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajcuddeback/tcp-udp/issues"
+  },
+  "homepage": "https://github.com/ajcuddeback/tcp-udp#readme"
+}
